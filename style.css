@@ -29,7 +29,7 @@ body {
     width: 100vw;
 
     font-family: 'Outfit', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 18px;
 
     color: hsl(0, 0%, 100%);
@@ -124,7 +124,7 @@ body {
 .title h1 {
     cursor: pointer;
 
-    font-weight: 400;
+    font-weight: 600;
     font-size: 20px;
 
     letter-spacing: 1.1px;
@@ -213,7 +213,7 @@ body {
     width: 87%;
 
     color: hsl(215, 51%, 75%);
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .content-creator strong {

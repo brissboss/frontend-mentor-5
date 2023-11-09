@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-mobile-first-Ja_1iMh-3Q)
 - Live Site URL: [My solution](https://frontend-mentor-5-pi.vercel.app/)
 
 ## My process
