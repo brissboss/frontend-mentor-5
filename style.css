@@ -48,6 +48,8 @@ body {
     align-items: center;
 
     background-image: linear-gradient(200deg, hsl(215, 32%, 27%), hsl(216, 50%, 16%));
+
+    box-shadow: 1px 9px 33px 19px rgba(0,0,0,0.25);
 }
 
 .content-card {
